@@ -11,7 +11,8 @@ These instructions will cover usage information to help your run Appwrite's Tele
 
 ### Prerequisities
 
-In order to run this container you'll need docker installed.
+In order to run this container will you
+need docker installed.
 
 * [Windows](https://docs.docker.com/windows/started)
 * [OS X](https://docs.docker.com/mac/started/)
